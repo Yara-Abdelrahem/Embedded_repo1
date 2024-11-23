@@ -1,0 +1,3 @@
+F:/Old_D/ITIEmbedded/Bash/Embedded_repo1/sub_module/build/CMakeFiles/Sub.dir
+F:/Old_D/ITIEmbedded/Bash/Embedded_repo1/sub_module/build/CMakeFiles/edit_cache.dir
+F:/Old_D/ITIEmbedded/Bash/Embedded_repo1/sub_module/build/CMakeFiles/rebuild_cache.dir

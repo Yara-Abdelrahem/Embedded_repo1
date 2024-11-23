@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libSub.a CMakeFiles/Sub.dir/src/sub.c.obj
+C:\MinGW\bin\ranlib.exe libSub.a
